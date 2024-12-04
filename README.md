@@ -92,8 +92,7 @@ div.fixed {
 <br>
 <br>
 <br>
-<button id = "button">page 2</button>
-[Page 2](file:///C:/Users/TDM/Desktop/pogisiclyde.html)
+<h2><a href = "file:///C:/Users/TDM/Desktop/pogisiclyde.html">Continue to Page 2</a></h2>
 </div>
 <br>
 <br>
